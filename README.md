@@ -36,7 +36,7 @@ pip install numpy matplotlib scikit-learn pandas
 
 2. Run the scripts:
    
-   - To execute the KMeans clustering algorithm:
+   - To execute the K-Means clustering algorithm:
 
      ```bash
      python normal_kmeans.py
@@ -71,5 +71,6 @@ This study was accepted in 2023 at the 26th **International Conference on Comput
   number={},
   pages={1-5},
   keywords={Technological innovation;Clustering methods;Clustering algorithms;Machine learning;Partitioning algorithms;Unsupervised learning;Convergence;Leaning by Observation;Partition-based Clustering;Unsupervised Learning},
-  doi={10.1109/ICCIT60459.2023.10441078}}
+  doi={10.1109/ICCIT60459.2023.10441078}
+}
 ```
